@@ -1,65 +1,15 @@
 # Diagrama de Classes
 
+## Sistema Imobiliário
+
+Este é um sistema de compra e venda/aluguel de imóveis onde:
+
+- **Proprietários** podem cadastrar e anunciar seus imóveis
+- **Usuários** podem buscar imóveis, agendar visitas e fazer propostas
+- O sistema gerencia todas as interações entre compradores e vendedores
+
+É como um marketplace digital para o mercado imobiliário, conectando quem tem imóveis com quem procura.
+
 ## Diagrama
 
 <iframe frameborder="0" style="width:100%;height:606px;" src="https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=000000&edit=_blank&layers=1&nav=1&title=sextoAndar.drawio&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1czhcvyhd-4xzXKPgRcarmGn223SelN_o%26export%3Ddownload"></iframe>
-
-## Classes Principais
-
-### Account (Classe Abstrata)
-- `id: UUID`
-- `username: String`
-- `fullName: String`
-- `phoneNumber: String`
-- `email: EmailType`
-- `password: String`
-
-### User
-Herda de Account
-
-### PropertyOwner
-Herda de Account
-
-### Property
-- `id: UUID`
-- `idPropertyOwner: UUID`
-- `propertySize: Numeric(10,10)`
-- `description: String`
-- `propertyValue: Numeric(10,2)`
-- `publishDate: DateTime`
-- `condominiumFee: Numeric(10,2)`
-- `commonArea: Boolean`
-- `floor: Integer`
-- `isPetAllowed: Boolean`
-
-### Proposal
-- `id: UUID`
-- `idProperty: UUID`
-- `idUser: UUID`
-- `proposalDate: DateTime`
-- `proposalValue: Numeric(10,2)`
-
-### Visit
-- `id: UUID`
-- `idProperty: UUID`
-- `idUser: UUID`
-- `visitDate: DateTime`
-- `isVisitCompleted: Boolean`
-
-### Address
-- `id: UUID`
-- `street: String`
-- `number: String`
-- `city: String`
-- `postal_code: String`
-- `country: String`
-
-## Enumerações
-
-### SalesType
-- Rent (Aluguel)
-- Sale (Venda)
-
-### PropertyType
-- Apartment (Apartamento)
-- House (Casa)
