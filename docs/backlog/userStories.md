@@ -38,8 +38,8 @@ As histórias foram priorizadas usando o método **MoSCoW** considerando o valor
 |----|---------|:-----------:|:---:|
 | US12 | Como proprietário, quero me cadastrar como "Proprietário" para poder cadastrar e gerenciar meus imóveis. | Must have | Sim |
 | US13 | Como proprietário, quero fazer login como "Proprietário" para acessar minhas funcionalidades específicas. | Must have | Sim |
-| US14 | Como proprietário, quero cadastrar **casas** informando: endereço, tamanho, descrição, valor, tipo de venda (aluguel/venda), preço do terreno e se é casa única no terreno. | Must have | |
-| US15 | Como proprietário, quero cadastrar **apartamentos** informando: endereço, tamanho, descrição, valor, tipo de venda, preço do condomínio, área de convivência, andar e se permite pets. | Must have |
+| US14 | Como proprietário, quero cadastrar **casas** informando: endereço, tamanho, descrição, valor, tipo de venda (aluguel/venda), preço do terreno e se é casa única no terreno. | Must have | Sim |
+| US15 | Como proprietário, quero cadastrar **apartamentos** informando: endereço, tamanho, descrição, valor, tipo de venda, preço do condomínio, área de convivência, andar e se permite pets. | Must have | Sim |
 | US16 | Como proprietário, quero visualizar meus imóveis cadastrados para acompanhar meu portfólio. | Must have |
 | US17 | Como proprietário, quero editar meus dados pessoais (nome, celular, email, senha) para manter minhas informações atualizadas. | Should have |
 | US18 | Como proprietário, quero ver a **quantidade de imóveis cadastrados** no meu perfil. | Could have |
