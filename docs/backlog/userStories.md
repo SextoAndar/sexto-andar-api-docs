@@ -22,13 +22,13 @@ As histórias foram priorizadas usando o método **MoSCoW** considerando o valor
 |----|---------|:-----------:|:---:|
 | US01 | Como usuário, quero me cadastrar como "Usuário" para poder acessar imóveis, favoritar, agendar visitas e fazer propostas. | Must have | Sim |
 | US02 | Como usuário, quero fazer login como "Usuário" para acessar minhas funcionalidades específicas. | Must have | Sim |
-| US03 | Como usuário, quero visualizar uma lista de imóveis disponíveis para encontrar opções que me interessem. | Must have |
+| US03 | Como usuário, quero visualizar uma lista de imóveis disponíveis para encontrar opções que me interessem. | Must have | Sim |
 | US04 | Como usuário, quero editar meus dados pessoais (nome, celular, email, senha) para manter minhas informações atualizadas. | Should have |
 | US05 | Como usuário, quero favoritar imóveis para salvá-los em minha lista de interesse. | Should have |
 | US06 | Como usuário, quero **desfavoritar** imóveis que não me interessam mais. | Could have |
 | US07 | Como usuário, quero visualizar meus imóveis favoritos e realizar ações rápidas (visita, proposta) sobre eles. | Should have |
 | US08 | Como usuário, quero ver a **quantidade de imóveis favoritados** no meu perfil. | Could have |
-| US09 | Como usuário, quero agendar visitas a imóveis informando a data desejada. | Must have |
+| US09 | Como usuário, quero agendar visitas a imóveis informando a data desejada. | Must have | Sim |
 | US10 | Como usuário, quero enviar propostas para imóveis informando o valor oferecido. | Must have |
 | US11 | Como usuário, quero deslogar ou sair do sistema a qualquer momento. | Should have | Sim |
 
@@ -40,7 +40,7 @@ As histórias foram priorizadas usando o método **MoSCoW** considerando o valor
 | US13 | Como proprietário, quero fazer login como "Proprietário" para acessar minhas funcionalidades específicas. | Must have | Sim |
 | US14 | Como proprietário, quero cadastrar **casas** informando: endereço, tamanho, descrição, valor, tipo de venda (aluguel/venda), preço do terreno e se é casa única no terreno. | Must have | Sim |
 | US15 | Como proprietário, quero cadastrar **apartamentos** informando: endereço, tamanho, descrição, valor, tipo de venda, preço do condomínio, área de convivência, andar e se permite pets. | Must have | Sim |
-| US16 | Como proprietário, quero visualizar meus imóveis cadastrados para acompanhar meu portfólio. | Must have |
+| US16 | Como proprietário, quero visualizar meus imóveis cadastrados para acompanhar meu portfólio. | Must have | Sim |
 | US17 | Como proprietário, quero editar meus dados pessoais (nome, celular, email, senha) para manter minhas informações atualizadas. | Should have |
 | US18 | Como proprietário, quero ver a **quantidade de imóveis cadastrados** no meu perfil. | Could have |
 | US19 | Como proprietário, quero **remover imóveis** cadastrados quando necessário. | Should have |
@@ -72,7 +72,7 @@ As histórias foram priorizadas usando o método **MoSCoW** considerando o valor
 | US35 | Como usuário do sistema, quero que os imóveis sejam mostrados de forma **embaralhada** para variedade. | Could have |
 | US36 | Como usuário do sistema, quero que as listas tenham **paginação** (15 itens por página) para melhor navegação. | Should have |
 | US37 | Como usuário do sistema, quero ver **diferenciação entre aluguel e venda** nos valores dos imóveis. | Should have |
-| US38 | Como usuário do sistema, quero que as **propostas e visitas tenham IDs únicos** para rastreamento. | Must have |
+| US38 | Como usuário do sistema, quero que as **propostas e visitas tenham IDs únicos** para rastreamento. | Must have | Sim |
 | US39 | Como proprietário, quero que o sistema **calcule automaticamente o valor total** dos imóveis com todas as taxas. | Could have |
 
 ## Legenda - Método MoSCoW
