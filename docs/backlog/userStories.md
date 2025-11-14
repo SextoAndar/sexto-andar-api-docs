@@ -54,15 +54,15 @@ As histórias foram priorizadas usando o método **MoSCoW** considerando o valor
 | ID | História | Prioridade | Concluído |
 |----|---------|:-----------:|:---:|
 | US24 | Como administrador, quero acessar o sistema sem necessidade de cadastro prévio. | Must have | Sim |
-| US25 | Como administrador, quero visualizar **todos os usuários cadastrados** (com paginação de 15 em 15). | Could have |
-| US26 | Como administrador, quero **editar dados** de qualquer usuário (nome, celular, email, senha). | Could have |
-| US27 | Como administrador, quero **excluir contas** de usuários quando necessário. | Could have |
-| US28 | Como administrador, quero visualizar **todos os proprietários cadastrados** (com paginação de 15 em 15). | Could have |
-| US29 | Como administrador, quero **editar dados** de qualquer proprietário (nome, celular, email, senha). | Could have |
-| US30 | Como administrador, quero **excluir contas** de proprietários quando necessário. | Could have |
-| US31 | Como administrador, quero visualizar **todos os imóveis cadastrados** no sistema (com embaralhamento e paginação). | Could have |
-| US32 | Como administrador, quero **excluir imóveis** cadastrados por proprietários quando necessário. | Could have |
-| US33 | Como administrador, quero buscar usuários e proprietários **por email** para edição/exclusão. | Could have |
+| US25 | Como administrador, quero visualizar **todos os usuários cadastrados** (com paginação). | Could have | Sim |
+| US26 | Como administrador, quero **editar dados** de qualquer usuário (nome, celular, email, senha). | Could have | Sim |
+| US27 | Como administrador, quero **excluir contas** de usuários quando necessário. | Could have | Sim |
+| US28 | Como administrador, quero visualizar **todos os proprietários cadastrados** (com paginação). | Could have | Sim |
+| US29 | Como administrador, quero **editar dados** de qualquer proprietário (nome, celular, email, senha). | Could have | Sim |
+| US30 | Como administrador, quero **excluir contas** de proprietários quando necessário. | Could have | Sim |
+| US31 | Como administrador, quero visualizar **todos os imóveis cadastrados** no sistema (com embaralhamento e paginação). | Could have | Sim |
+| US32 | Como administrador, quero **excluir imóveis** cadastrados por proprietários quando necessário. | Could have | Sim |
+| US33 | Como administrador, quero buscar usuários e proprietários **por email** para edição/exclusão. | Could have | Sim |
 
 ### Sistema e Funcionalidades Técnicas
 
