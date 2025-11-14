@@ -45,7 +45,7 @@ As histórias foram priorizadas usando o método **MoSCoW** considerando o valor
 | US18 | Como proprietário, quero ver a **quantidade de imóveis cadastrados** no meu perfil. | Could have |
 | US19 | Como proprietário, quero **remover imóveis** cadastrados quando necessário. | Should have |
 | US20 | Como proprietário, quero visualizar **todas as propostas recebidas** para meus imóveis com detalhes do usuário interessado. | Must have |
-| US21 | Como proprietário, quero visualizar **todas as visitas agendadas** para meus imóveis com detalhes do usuário interessado. | Must have |
+| US21 | Como proprietário, quero visualizar **todas as visitas agendadas** para meus imóveis com detalhes do usuário interessado. | Must have | Sim |
 | US22 | Como proprietário, quero ver o **status das visitas** (realizada ou não). | Should have |
 | US23 | Como proprietário, quero deslogar ou sair do sistema a qualquer momento. | Should have | Sim |
 
