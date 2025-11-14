@@ -42,7 +42,7 @@ As histórias foram priorizadas usando o método **MoSCoW** considerando o valor
 | US15 | Como proprietário, quero cadastrar **apartamentos** informando: endereço, tamanho, descrição, valor, tipo de venda, preço do condomínio, área de convivência, andar e se permite pets. | Must have | Sim |
 | US16 | Como proprietário, quero visualizar meus imóveis cadastrados para acompanhar meu portfólio. | Must have | Sim |
 | US17 | Como proprietário, quero editar meus dados pessoais (nome, celular, email, senha) para manter minhas informações atualizadas. | Should have | Sim |
-| US18 | Como proprietário, quero ver a **quantidade de imóveis cadastrados** no meu perfil. | Could have |
+| US18 | Como proprietário, quero ver a **quantidade de imóveis cadastrados** no meu perfil. | Could have | Sim |
 | US19 | Como proprietário, quero **remover imóveis** cadastrados quando necessário. | Should have | Sim |
 | US20 | Como proprietário, quero visualizar **todas as propostas recebidas** para meus imóveis com detalhes do usuário interessado. | Must have | Sim |
 | US21 | Como proprietário, quero visualizar **todas as visitas agendadas** para meus imóveis com detalhes do usuário interessado. | Must have | Sim |
@@ -69,11 +69,11 @@ As histórias foram priorizadas usando o método **MoSCoW** considerando o valor
 | ID | História | Prioridade | Concluído |
 |----|---------|:-----------:|:---:|
 | US34 | Como usuário do sistema, quero que os imóveis sejam exibidos com **filtros por tipo** (casa/apartamento) e **tipo de venda** (aluguel/venda). | Should have | Sim |
-| US35 | Como usuário do sistema, quero que os imóveis sejam mostrados de forma **embaralhada** para variedade. | Could have |
+| US35 | Como usuário do sistema, quero que os imóveis sejam mostrados de forma **embaralhada** para variedade. | Could have | Sim |
 | US36 | Como usuário do sistema, quero que as listas tenham **paginação** para melhor navegação. | Should have | Sim |
 | US37 | Como usuário do sistema, quero ver **diferenciação entre aluguel e venda** nos valores dos imóveis. | Should have | Sim |
 | US38 | Como usuário do sistema, quero que as **propostas e visitas tenham IDs únicos** para rastreamento. | Must have | Sim |
-| US39 | Como proprietário, quero que o sistema **calcule automaticamente o valor total** dos imóveis com todas as taxas. | Could have |
+| US39 | Como proprietário, quero que o sistema **calcule automaticamente o valor total** dos imóveis com todas as taxas. | Could have | Sim |
 
 ## Legenda - Método MoSCoW
 
